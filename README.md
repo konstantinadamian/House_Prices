@@ -10,7 +10,7 @@ This project predicts house prices using data from a SQLite database and machine
   - `energy_classes`: tax rate by energy class
 - Dataset creation with:
   - Data cleaning and preprocessing
-  - Visualizations (e.g., heatmap)
+  - Visualizations (e.g., heatmap,scatter,boxplot)
 - Training of 2 models:
   - Linear Regression ✅ (best performance)
   - Decision Tree Regression
